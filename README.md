@@ -36,7 +36,7 @@ This tool simplifies the process by generating **ready-to-use palettes instantly
 
 ---
 
-## 📸 Preview
+## Preview
 
 ### 🔹 Generated Palette
 ![Screenshot 1](assets/image1.png)
